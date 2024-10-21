@@ -15,9 +15,9 @@
               "state": {
                 "file": "worldshaper gregtorio.canvas",
                 "viewState": {
-                  "x": -230,
-                  "y": 260,
-                  "zoom": -0.9516369784386012
+                  "x": -266.947772033957,
+                  "y": 290.78128563257235,
+                  "zoom": 0.7150296882280653
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -96,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "worldshaper gregtorio.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for worldshaper gregtorio"
             }
           },
           {
@@ -148,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +158,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bda82ca834ade2c3",
+  "active": "8df3971c5d976eae",
   "lastOpenFiles": [
     "Welcome.md",
     "worldshaper gregtorio.canvas"
