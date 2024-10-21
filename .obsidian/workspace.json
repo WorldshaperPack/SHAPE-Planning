@@ -19,9 +19,7 @@
                   "y": -98.06546519575141,
                   "zoom": 0.7150296882280653
                 }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "worldshaper gregtorio"
+              }
             }
           }
         ]
@@ -44,9 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -61,9 +57,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -71,9 +65,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -104,9 +96,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for worldshaper gregtorio"
+              }
             }
           },
           {
@@ -115,11 +105,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "worldshaper gregtorio.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              }
             }
           },
           {
@@ -130,9 +119,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -140,9 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
+              "state": {
+                "file": "worldshaper gregtorio.canvas"
+              }
             }
           }
         ]
