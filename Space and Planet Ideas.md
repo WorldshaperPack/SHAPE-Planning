@@ -12,7 +12,7 @@
 			- tier 2 - Mars, Magnetic caves, candy cavity
 			- tier 3 - Venus, mercury, forlorn hollows, abyssal depths
 			- tier 4 - Glacio, toxic caves, 
-	- the alexs planets are special and require a whole new infrastructure to be made,
+	- the Alex's planets are special and require a whole new infrastructure to be made,
 		- using new resources from their environment/ecosystem, with their own science pack
 	- the base planets from base space mod are fairly generic, some things required for gating
-	- Moved unused alexs mobs from the overworld to other planets where they seem fitting
+	- Moved unused Alex's mobs from the overworld to other planets where they seem fitting
