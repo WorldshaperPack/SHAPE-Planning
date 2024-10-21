@@ -15,9 +15,9 @@
               "state": {
                 "file": "worldshaper gregtorio.canvas",
                 "viewState": {
-                  "x": 614.3487420344593,
-                  "y": -98.06546519575141,
-                  "zoom": 0.7150296882280653
+                  "x": -727.18811886534,
+                  "y": -297.213314094887,
+                  "zoom": -0.2849703117719346
                 }
               }
             }
@@ -151,6 +151,7 @@
   },
   "active": "bda82ca834ade2c3",
   "lastOpenFiles": [
+    "Planets.md",
     "Welcome.md",
     "worldshaper gregtorio.canvas"
   ]
