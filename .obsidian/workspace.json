@@ -15,8 +15,8 @@
               "state": {
                 "file": "worldshaper gregtorio.canvas",
                 "viewState": {
-                  "x": -266.947772033957,
-                  "y": 290.78128563257235,
+                  "x": 559.5214084346384,
+                  "y": -70.65179839584098,
                   "zoom": 0.7150296882280653
                 }
               },
@@ -162,7 +162,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8df3971c5d976eae",
+  "active": "bda82ca834ade2c3",
   "lastOpenFiles": [
     "Welcome.md",
     "worldshaper gregtorio.canvas"
