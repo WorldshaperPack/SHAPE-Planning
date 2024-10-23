@@ -1,6 +1,6 @@
 - Pack Todo
 	- [x] Near surface ores
- - [x] Upgrade Kits
+  - [x] Upgrade Kits
 	- Long term
 		- [ ] Figure out bedrock mining
 		- [ ] Figure out portals/cross dim transport (mass driver/dim cannons/etc)
