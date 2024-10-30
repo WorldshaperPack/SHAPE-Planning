@@ -11,14 +11,17 @@
             "id": "bda82ca834ade2c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Core.md",
-                "mode": "source",
-                "source": false
+                "file": "worldshaper gregtorio.canvas",
+                "viewState": {
+                  "x": 458.2273396861269,
+                  "y": -18.39121359195134,
+                  "zoom": -0.3880104259536478
+                }
               },
-              "icon": "lucide-file",
-              "title": "Core"
+              "icon": "lucide-layout-dashboard",
+              "title": "worldshaper gregtorio"
             }
           }
         ]
@@ -159,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,11 +178,11 @@
   },
   "active": "bda82ca834ade2c3",
   "lastOpenFiles": [
+    "Core.md",
     "Pack Todo.md",
     "Planets.md",
     "test/Welcome.md",
     "Space and Planet Ideas.md",
-    "Core.md",
     "test",
     "worldshaper gregtorio.canvas",
     "Welcome.md"
