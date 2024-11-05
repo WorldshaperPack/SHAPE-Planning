@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core.md",
+                "file": "Space and Planet Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core"
-            }
-          },
-          {
-            "id": "76ade0796850632b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Space and Planet Ideas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,12 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76ade0796850632b",
+  "active": "bda82ca834ade2c3",
   "lastOpenFiles": [
-    "Pack Todo.md",
-    "Core.md",
     "Planets.md",
     "Space and Planet Ideas.md",
+    "Core.md",
+    "Pack Todo.md",
     "worldshaper gregtorio.canvas",
     "test/Welcome.md",
     "test",

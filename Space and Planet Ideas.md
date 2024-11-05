@@ -1,4 +1,3 @@
-
 - dimensional cannons mod for gating cross dimension item transport through shell tiers, also able to research portals for the dimensions for train transport
 - waystones are disabled for gated planets, but when sufficiently through a planets progression
 - you may research a gateway painting to travel between easily without a rocket (MAYBE)
