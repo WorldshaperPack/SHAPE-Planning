@@ -1,4 +1,3 @@
-
 - Tier 0
 	- Overworld/Semiflat
 	- The Nether

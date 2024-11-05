@@ -1,8 +1,8 @@
 
  - Space/planet ideas
-	- dimensional cannons mod for gating cross dimension item transport through shell tiers, also able to research portals for the dimensions for train
+	- dimensional cannons mod for gating cross dimension item transport through shell tiers, also able to research portals for the dimensions for train transport
 	- waystones are disabled for gated planets, but when sufficiently through a planets progression
-	    you may research a gateway painting to travel between easily without a rocket
+	- you may research a gateway painting to travel between easily without a rocket (MAYBE)
 	- overworld and semiflat dimension are peaceful, most other dimensions are quite hostile
 	- Alexs caves moved to dimensions aka planets, used later in progression
 	- northstar or ad astra?? northstar fairly indev, unsure if gateable
