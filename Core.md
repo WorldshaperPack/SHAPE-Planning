@@ -1,5 +1,6 @@
 - gregtech fundamental reworks
 	-  Reduce microcrafting of greg, more similar to MI
+      - Reduce total tiers down TO EV/IV, as well as making less tier gated but rather use research and exponential infra reqs
 	    - Likely remove certain components from all recipes and hide them, 
 	        more components is useless and just encourages passiving less
 	    - change gt machine recipes to use the same common components
