@@ -1,50 +1,24 @@
 
 - Tier 0 ULV-LV
 	- Overworld/Semiflat
-		- Materials
-			- Copper
-			- Iron
-			- Lead
-			- Tin
-			- Coal
-			- Wrought iron
-			- Steel
-			- Gold
-			- Diamond
-	
-	- Nether
-		- Materials
-			- Zinc
-			- Nickel
-			- Sphalerite
+	- The Nether
 	- Limbo
-- Tier 1 MV-HV
-	-  Moon (Replaces end)
-		- Materials
-			- Desh
-			- Certus
-			- Fluix
 	
+- Tier 1 MV
+	-  Moon (Replaces end??, dk where to put end)
 	- Primordial Caves
-		- Materials
-			- Cupronickel
-			- Aluminium
-	
-- Tier 2 EV-IV
-	- Mars
-		- Materials
-			- Ostrum
-	- Magnetic Caves
-		- Materials
-			- Azure/Scarlet Neodymium 
 	- Candy Cavity
 	
-- Tier 3 LuV - ZPM
+- Tier 2 HV
+	- Mars
+	- Magnetic Caves
+	- Abyssal Chasms
+	- Toxic Caves
+	
+- Tier 3 EV
 	- Venus
 	- Mercury
 	- Forlorn Hollows
-	- Abyssal Chasms
-	
-- Tier 4 UV+
 	- Glacio
-	- Toxic Caves
+	
+- Tier 4 secret or end question mark
