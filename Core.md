@@ -1,14 +1,14 @@
 - gregtech fundamental reworks
 	-  Reduce microcrafting of greg, more similar to MI
-      - Reduce total tiers down TO EV/IV, as well as making less tier gated but rather use research and exponential infra reqs
-	    - Likely remove certain components from all recipes and hide them, 
-	        more components is useless and just encourages passiving less
-	    - change gt machine recipes to use the same common components
-	    - recipes take higher quantity of items but have less crafts to achieve
-	    - Likely change most covers to act as utility only rather than crafting components?
-	    - move the secondary voltage materials to be part of other planets special seperate progressions
-	    - upgradeable machine hulls using a universal upgrade component for singleblocks, 
-	        rather than having each machine have tiered parts
+	- Reduce total tiers down TO EV/IV, as well as making less tier gated but rather use research and exponential infra reqs
+	- Likely remove certain components from all recipes and hide them, 
+		more components is useless and just encourages passiving less
+	- change gt machine recipes to use the same common components
+	- recipes take higher quantity of items but have less crafts to achieve
+	- Likely change most covers to act as utility only rather than crafting components?
+	- move the secondary voltage materials to be part of other planets special seperate progressions
+	- upgradeable machine hulls using a universal upgrade component for singleblocks, 
+		rather than having each machine have tiered parts
 	-  research system
 	    - this is used as a further progression gate, requiring players to build infra to 
 	        unlock specific new things in progression rather  than just microcrafting their way to new toys,
@@ -23,7 +23,7 @@
 		- starting with ulv miner of sorts? would be hard to balance it to not just be spammable
 		- likely better to just have a manual mining more similar to factorio for starting resources,
 		with ore blocks or something you can repeatedly mine many times
-	-  gcym replacements
+	-  GCyM replacements
 		- abs alloys likely removed and abs is repurposed for other things
 		- base gcyms are removed and replaced by new multis with set parallel values, these multis have bigger and better tiers locked behind researches
 		- should probably do this through a coremod
