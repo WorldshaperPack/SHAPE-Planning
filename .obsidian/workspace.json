@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planets.md",
+                "file": "Space and Planet Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planets"
+              "title": "Space and Planet Ideas"
             }
           }
         ]
@@ -175,8 +175,8 @@
   },
   "active": "bda82ca834ade2c3",
   "lastOpenFiles": [
-    "Pack Todo.md",
     "Planets.md",
+    "Pack Todo.md",
     "Space and Planet Ideas.md",
     "worldshaper gregtorio.canvas",
     "Core.md",

@@ -1,24 +1,24 @@
 
-- Tier 0 ULV-LV
+- Tier 0
 	- Overworld/Semiflat
 	- The Nether
 	- Limbo
 	
-- Tier 1 MV
+- Tier 1
 	-  Moon (Replaces end??, dk where to put end)
 	- Primordial Caves
 	- Candy Cavity
 	
-- Tier 2 HV
+- Tier 2
 	- Mars
 	- Magnetic Caves
 	- Abyssal Chasms
-	- Toxic Caves
 	
-- Tier 3 EV
+- Tier 3
 	- Venus
 	- Mercury
-	- Forlorn Hollows
+	- Toxic Caves
+
+- Tier 4 (maybe replace planets with secret, end, or unused rocket question mark)
 	- Glacio
-	
-- Tier 4 secret or end question mark
+	- Forlorn Hollows
