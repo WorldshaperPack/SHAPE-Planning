@@ -27,5 +27,5 @@
 			- Gregtech bedrock miners (problematic and buggy, would need to be rewritten to work well and doesn't really work out early game so you'd need another method for ores)
 			- Custom machinery miners
 			(Can be used on veins spawned as little structures or features similar to factoriores, but easier to accomplish probably)
-			- Port of factiores?? prolly not
+			- Port of factoriores?? prolly not
 	
