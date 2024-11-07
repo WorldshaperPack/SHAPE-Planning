@@ -1,9 +1,21 @@
 - Pack Todo
 	- [x] Near surface ores
 	- [x] Upgrade Kits
+	- [ ] Figure out bedrock mining
+	- [ ] Create builders for removed recipes with new specifications
+	- [ ] *Begin progression*
 	- Long term
-		- [ ] Figure out bedrock mining
-		- [ ] Figure out portals/cross dim transport (mass driver/dim cannons/etc)
+		- [ ] Rewrite science station
+		- [ ] Figure out portals/cross dim transport
+		- [ ] Move custom stuff to coremod
+			- [x] Portals
+			- [ ] Dimensional cannons
+			- [ ] Mass driver ?
+		- Cleaning
+			- [ ] Polish and fix main menu, buttons
+			- [ ] Make better icon
+			- [ ] Add missing lang (ad astra planets, custom machines)
+			- [ ] Hide unused content
 
 - Modding Todo
 	-  Powerlines (specifically stuff for this pack)
