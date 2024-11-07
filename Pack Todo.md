@@ -7,16 +7,17 @@
 	- Long term
 		- [ ] Rewrite science station
 		- [ ] Figure out portals/cross dim transport
-		- [ ] Move custom stuff to coremod
-			- [x] Portals
+			- [x] Portals with trains
 			- [ ] Dimensional cannons
-			- [ ] Mass driver ?
+			- [ ] Interplanetary mass drivers ?
+		- [ ] Move custom stuff to coremod
+
 		- Cleaning
 			- [ ] Polish and fix main menu, buttons
 			- [ ] Make better icon
 			- [ ] Add missing lang (ad astra planets, custom machines)
-			- [ ] Hide unused content
-
+			- [ ] Hide unused content (Unused GT machines/items)
+y
 - Mod Todos
 	-  Powerlines (specifically stuff for this pack)
 		- [ ] Recipes for spool and conns
