@@ -4,6 +4,7 @@
 	- [ ] Figure out bedrock mining
 	- [ ] Create builders for removed recipes with new specifications (Ore proc, recycling, components)
 	- [ ] *Begin progression*
+	
 	- Long term
 		- [ ] Rewrite science station
 		- [ ] Figure out portals/cross dim transport
@@ -17,7 +18,7 @@
 			- [ ] Make better icon
 			- [ ] Add missing lang (ad astra planets, custom machines)
 			- [ ] Hide unused content (Unused GT machines/items)
-y
+
 - Mod Todos
 	-  Powerlines (specifically stuff for this pack)
 		- [ ] Recipes for spool and conns
