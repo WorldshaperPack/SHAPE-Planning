@@ -1,8 +1,8 @@
-- Pack Todo
+- General Pack Todo
 	- [x] Near surface ores
 	- [x] Upgrade Kits
 	- [ ] Figure out bedrock mining
-	- [ ] Create builders for removed recipes with new specifications
+	- [ ] Create builders for removed recipes with new specifications (Ore proc, recycling, components)
 	- [ ] *Begin progression*
 	- Long term
 		- [ ] Rewrite science station
@@ -17,7 +17,7 @@
 			- [ ] Add missing lang (ad astra planets, custom machines)
 			- [ ] Hide unused content
 
-- Modding Todo
+- Mod Todos
 	-  Powerlines (specifically stuff for this pack)
 		- [ ] Recipes for spool and conns
 		- [ ] tooltips for energy transfer
