@@ -24,7 +24,7 @@
 		- [ ] Recipes for spool and conns
 		- [ ] tooltips for energy transfer
 	-  Coremod?
-		- [ ] Gcym replacements
+		- [ ] GCyM replacements
 		- [ ]  Bedrock miners
 			- Gregtech bedrock miners (problematic and buggy, would need to be rewritten to work well and doesn't really work out early game so you'd need another method for ores)
 			- Custom machinery miners
