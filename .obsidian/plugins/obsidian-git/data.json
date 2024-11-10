@@ -19,7 +19,7 @@
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": true,
+  "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "{{files}}"
+  "autoCommitMessage": "vault backup: {{date}}"
 }
