@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core.md",
+                "file": "Planets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core"
-            }
-          },
-          {
-            "id": "80e8bd9a11567339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Core"
+              "title": "Planets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,18 +173,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80e8bd9a11567339",
+  "active": "bda82ca834ade2c3",
   "lastOpenFiles": [
-    "Early Resource Gathering.md",
+    "Pack Todo.md",
     "Nerfing AE2.md",
+    "Core.md",
+    "Early Resource Gathering.md",
+    "GregTech fundamental rework.md",
     "Space and Planet Ideas.md",
     "Planets.md",
-    "Core.md",
-    "GregTech fundamental rework.md",
     "worldshaper gregtorio.canvas",
     "Space and Planet Ideas.md",
     "Planets.md",
-    "Pack Todo.md",
     "test/Welcome.md",
     "test",
     "Welcome.md"
