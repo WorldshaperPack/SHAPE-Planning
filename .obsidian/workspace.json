@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nerfing AE2.md",
+                "file": "Core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nerfing AE2"
+              "title": "Core"
             }
           }
         ],
@@ -190,11 +190,12 @@
   },
   "active": "80e8bd9a11567339",
   "lastOpenFiles": [
+    "Early Resource Gathering.md",
+    "Nerfing AE2.md",
     "Space and Planet Ideas.md",
     "Planets.md",
     "Core.md",
     "GregTech fundamental rework.md",
-    "Nerfing AE2.md",
     "worldshaper gregtorio.canvas",
     "Space and Planet Ideas.md",
     "Planets.md",
