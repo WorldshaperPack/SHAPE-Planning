@@ -1,7 +1,7 @@
 ![[Core#Nerfing AE2]]
 
 Approaching AE2 as a means to the measure, as tool instead of the universal solution.
-I suggest channels to be doubled or quadrupled (i.e. 16 or 32 channels on a regular cable), but push the back. 
+I suggest channels to be doubled or quadrupled (i.e. 16 or 32 channels on a regular cable), but push the controller back in progression. 
 	This is to make it viable as method for passive transportation and dense logistics, whilst still requiring thought and problem-solving instead of pattern spam on one machine. 
 I propose tiering access to components in a cascading way:
 1. External Storage and I/O
