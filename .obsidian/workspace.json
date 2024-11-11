@@ -15,9 +15,9 @@
               "state": {
                 "file": "worldshaper gregtorio.canvas",
                 "viewState": {
-                  "x": -6.0723780140619965,
-                  "y": -39.65605617910336,
-                  "zoom": -0.7213437592869811
+                  "x": -150,
+                  "y": 80.13186813186809,
+                  "zoom": -0.9516369784386012
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -178,13 +178,13 @@
   },
   "active": "bda82ca834ade2c3",
   "lastOpenFiles": [
+    "Space and Planet Ideas.md",
+    "Planets.md",
     "Core.md",
     "Pack Todo.md",
-    "Planets.md",
-    "test/Welcome.md",
-    "Space and Planet Ideas.md",
-    "test",
     "worldshaper gregtorio.canvas",
+    "test/Welcome.md",
+    "test",
     "Welcome.md"
   ]
 }
