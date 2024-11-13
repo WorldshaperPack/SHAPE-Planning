@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Nerfing AE2"
             }
+          },
+          {
+            "id": "7c59e14eac229db0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80e8bd9a11567339",
+  "active": "7c59e14eac229db0",
   "lastOpenFiles": [
     "GregTech fundamental rework.md",
     "Early Resource Gathering.md",
