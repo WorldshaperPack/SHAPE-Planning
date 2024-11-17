@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Planets"
             }
+          },
+          {
+            "id": "42f0d11e5a740567",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bda82ca834ade2c3",
+  "active": "42f0d11e5a740567",
   "lastOpenFiles": [
     "Core.md",
     "Early Resource Gathering.md",
