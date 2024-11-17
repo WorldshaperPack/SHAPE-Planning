@@ -1,6 +1,6 @@
 # [[GregTech fundamental rework]] ^5a707d
 -  Reduce micro-crafting of greg, more similar to MI
-- Reduce total tiers down TO EV/IV, as well as making less tier gated but rather use research and exponential infra reqs
+- Reduce total tiers down TO EV/IV, as well as making less tier gated but rather use research and exponential infra requirements
 - Likely remove certain components from all recipes and hide them, 
 	more components is useless and just encourages passiving less
 - change gt machine recipes to use the same common components
@@ -23,6 +23,6 @@
 - starting with ulv miner of sorts? would be hard to balance it to not just be spammable? likely better to just have a manual mining more similar to factorio for starting resources
 # [[GCyM replacements]]
 - abs alloys likely removed and abs is repurposed for other things
-- base gcyms are removed and replaced by new multis with set parallel values, these multis have bigger and better tiers locked behind researches
+- base GCyM's are removed and replaced by new multis with set parallel values, these multis have bigger and better tiers locked behind researches
 - should probably do this through a coremod
-- OR only keep a single tier of parallel multi, like 4x processing  at hv with no more tiers, shouldn't need higher without ae2 on demand? later game stuff should have entirely different mechanics anyway to keep it fresh
+- OR only keep a single tier of parallel multi, like 4x processing at hv with no more tiers, shouldn't need higher without ae2 on demand? later game stuff should have entirely different mechanics anyway to keep it fresh

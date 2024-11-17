@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a69f893a1b61adb",
+        "id": "5b651a9d66c44841",
         "type": "tabs",
         "children": [
           {
-            "id": "a87b8495fe1b25f3",
+            "id": "fe3f82b2592bf2dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,13 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a87b8495fe1b25f3",
+  "active": "fe3f82b2592bf2dd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "GregTech fundamental rework.md",
     "Core.md",
     "Research system.md",
     "Early Resource Gathering.md",
-    "GregTech fundamental rework.md",
+    "conflict-files-obsidian-git.md",
     "worldshaper gregtorio.canvas",
     "Space and Planet Ideas.md",
     "Planets.md",
