@@ -8,9 +8,9 @@
 	- Long term
 		- [ ] Rewrite science station
 		- [ ] Figure out portals/cross dim transport
-			- [ ] Portals with trains
+			- [x] Portals with trains
 			- [ ] Dimensional cannons
-			- [ ] Interplanetary mass drivers ?
+			- [ ] Interplanetary and or planetary mass drivers ?
 		- [ ] Move custom stuff to coremod
 
 		- Cleaning
