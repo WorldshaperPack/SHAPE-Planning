@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "3f12510b5ddec3c0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "80e8bd9a11567339",
             "type": "leaf",
             "state": {
@@ -47,7 +59,8 @@
               "title": "Release Notes 1.7.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nerfing AE2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nerfing AE2"
+              "title": "Backlinks"
             }
           },
           {
@@ -197,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bda82ca834ade2c3",
+  "active": "3f12510b5ddec3c0",
   "lastOpenFiles": [
     "Research system.md",
     "conflict-files-obsidian-git.md",
