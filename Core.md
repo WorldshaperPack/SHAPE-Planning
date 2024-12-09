@@ -10,12 +10,8 @@
 - upgradeable machine hulls using a universal upgrade component for singleblocks, 
 	rather than having each machine have tiered parts
 #  [[Research system]]
-- this is used as a further progression gate, requiring players to build infra to 
-	unlock specific new things in progression rather  than just microcrafting their way to new toys,
-	taking incrementally large amounts of science packs, with new science packs per tier of progression
-	as well as planet/dimension.
-- Currently made with custom logic using FTBq and custom machinery, could possibly be replaced by a gt addon
-	later on in dev
+- this is used as a further progression gate, requiring players to build infra to unlock specific new things in progression rather  than just microcrafting their way to new toys, taking incrementally large amounts of science packs, with new science packs per tier of progression, as well as planet/dimension.
+- Currently made with custom logic using FTBq and custom machinery, could possibly be replaced by a gt addon later on in dev
 # [[Nerfing AE2]]
 - ae2 will be heavily gated for every aspect of it aside from storage, maybe not including patterns at all
 - likely start with storage off the bat, allowing crafting disks and drives, but not glass cables, fullblock energistics is added to use monitors without cables
