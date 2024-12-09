@@ -19,6 +19,7 @@
 - starting with ulv miner of sorts? would be hard to balance it to not just be spammable? likely better to just have a manual mining more similar to factorio for starting resources
 # [[GCyM replacements]]
 - abs alloys likely removed and abs is repurposed for other things
+	- perhaps large induction smelter?
 - base GCyM's are removed and replaced by new multis with set parallel values, these multis have bigger and better tiers locked behind researches
 - should probably do this through a coremod
 - OR only keep a single tier of parallel multi, like 4x processing at hv with no more tiers, shouldn't need higher without ae2 on demand? later game stuff should have entirely different mechanics anyway to keep it fresh
