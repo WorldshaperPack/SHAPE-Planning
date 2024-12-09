@@ -15,7 +15,7 @@
 # [[Nerfing AE2]]
 - ae2 will be heavily gated for every aspect of it aside from storage, maybe not including patterns at all
 - likely start with storage off the bat, allowing crafting disks and drives, but not glass cables, fullblock energistics is added to use monitors without cables
-# [[Early Resource Gathering]]
+# [[Resource Gathering]]
 - starting with ulv miner of sorts? would be hard to balance it to not just be spammable? likely better to just have a manual mining more similar to factorio for starting resources
 # [[GCyM replacements]]
 - abs alloys likely removed and abs is repurposed for other things
