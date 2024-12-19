@@ -1,6 +1,10 @@
 - General Pack Todo
+	- [ ] Remove property flags from materials (gears screws screws whatever other bullshit)
+	- [ ] Remove all tools except iron or something and make them unbreakable
+	- [ ] Add simple tool recipes
+	- [ ] Add recipe builders
 	- [ ] Create builders for removed recipes with new specifications (Ore proc, recycling, components)
-	
+
 - Long term
 	- [ ] figure out dimensional cannons
 	- [ ] Interplanetary and or planetary mass drivers ?
@@ -14,7 +18,7 @@
 
 - Mod Todos
 	- Other
-		- [ ] Nerf powerlines scaling back to converter amounts instead of s
+		- [ ] Nerf powerlines scaling back to converter amounts instead of scaling amps
 	-  Coremod?
 		- [ ] GCyM replacements
 		- [ ] Bedrock miners
