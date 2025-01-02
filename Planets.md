@@ -1,23 +1,46 @@
 - Tier 0
 	- Overworld/Semiflat
+		- Peaceful, likely main base of operations, starting off with basic materials
 	- The Nether
+		- Not so peaceful, Automation of rarer resources
+		- Heat/blaze related fuel for t1 rocket
 	- Limbo
-	
+		- Alternate ending path
+		- Corrupted science
 - Tier 1
-	-  Moon (Replaces end??, dk where to put end)
+	- The end
+		- Ender stuff :P
+	-  Moon
+		- Start of craftable ae2, very limited
+		- Desh processing, for new machines and crafting t2 rocket
 	- Primordial Caves
+		- Primordial Science
 	- Candy Cavity
+		- Candy and food themed processing for t2 rocket fuel 
+		- Candy Science
 	
 - Tier 2
 	- Mars
+		- Ostrum for t3
 	- Magnetic Caves
+		- Magnetic Science
 	- Abyssal Chasms
+		- Abyssal Science
 	
 - Tier 3
 	- Venus
+		- Calorite for t4
 	- Mercury
-	- Toxic Caves
-
-- Tier 4 (maybe replace planets with secret, end, or unused rocket question mark)
-	- Glacio
+		- Has molten metal slurry veins, tbd usage
+	- Aether
+		- Ethyrean Science
 	- Forlorn Hollows
+		- Forlorn Science
+
+- Tier 4
+	- Deeper dark
+		- Reverberating Science
+	- Glacio
+		- Etrium for t5 finale
+	- Toxic Caves
+		- Toxic Science

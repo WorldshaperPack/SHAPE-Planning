@@ -1,6 +1,5 @@
 - General Pack Todo
-	- [ ] Remove property flags from materials (gears screws screws whatever other bullshit)
-	- [ ] Remove all tools except iron or something and make them unbreakable
+	- [ ] Remove all tools except iron or something and make them unbreakable (In craft modify nbt)
 	- [ ] Add simple tool recipes
 	- [ ] Add recipe builders
 	- [ ] Create builders for removed recipes with new specifications (Ore proc, recycling, components)
@@ -18,7 +17,7 @@
 
 - Mod Todos
 	- Other
-		- [ ] Nerf powerlines scaling back to converter amounts instead of scaling amps
+		- [ ] Nerf powerlines scaling back to 4, 8, 16, 32, 64
 	-  Coremod?
 		- [ ] GCyM replacements
 		- [ ] Bedrock miners
