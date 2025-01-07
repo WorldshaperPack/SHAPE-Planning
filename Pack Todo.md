@@ -1,6 +1,6 @@
 - General Pack Todo
-	- [ ] Remove all tools except iron or something and make them unbreakable (In craft modify nbt)
-	- [ ] Add simple tool recipes
+	- [ ] figure out removal, ignoring, or hiding for components
+		- [ ] deploy en masse
 	- [ ] Add recipe builders
 	- [ ] Create builders for removed recipes with new specifications (Ore proc, recycling, components)
 
