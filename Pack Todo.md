@@ -1,7 +1,5 @@
 - General Pack Todo
-	- [ ] figure out removal, ignoring, or hiding for components
-		- [ ] deploy en masse
-	- [ ] Add recipe builders
+	- [ ] Add recipe builders, remove recipe output items from hidden tags
 	- [ ] Create builders for removed recipes with new specifications (Ore proc, recycling, components)
 
 - Long term
@@ -10,6 +8,7 @@
 
 - Cleaning/Textures
 	- [ ] Polish and fix main menu, buttons
+	- [ ] Recolor t5 rocket to etrium maybe
 	- [ ] Make better icon
 	- [ ] Replace stolen upgrade kit textures
 	- [ ] Add missing lang (ad astra planets, custom machines)
