@@ -11,3 +11,4 @@
 - Moved unused Alex's mobs from the overworld to other planets where they seem fitting
 
 - reskin enchantment books for space-proofing to look reasonable?
+	- this would allow us to make them craftable and not look silly
