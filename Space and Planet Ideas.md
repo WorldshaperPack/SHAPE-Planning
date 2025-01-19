@@ -9,3 +9,5 @@
 	- using new resources from their environment/ecosystem, with their own science pack
 - the base planets from base space mod are fairly generic, some things required for gating
 - Moved unused Alex's mobs from the overworld to other planets where they seem fitting
+
+- reskin enchantment books for space-proofing to look reasonable?
