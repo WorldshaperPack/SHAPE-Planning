@@ -1,7 +1,5 @@
 - General Pack Todo
-	- [ ] Add recipe builders, remove recipe output items from hidden tags
 	- [ ] Create builders for removed recipes with new specifications (Ore proc, recycling, components)
-
 - Long term
 	- [ ] figure out dimensional cannons
 	- [ ] Interplanetary and or planetary mass drivers ?
@@ -24,4 +22,7 @@
 			- Custom machinery miners
 				(Can be used on veins spawned as little structures or features similar to factoriores, but easier to accomplish probably)
 			- Port of factoriores?? prolly not
-	
+	- WSGT
+		- [ ] Remove all but 1 circuit per tier (without breaking tags)
+		- [ ] Remove the recipes related to circuits
+		- [ ] Unregister everything IV+
