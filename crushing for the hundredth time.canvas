@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"03d451fa919f9f04","type":"text","text":"Mine Feedstock ","x":-406,"y":-268,"width":250,"height":60},
+		{"id":"f2020afa16d44e86","type":"text","text":"Primary Crushing","x":-404,"y":-55,"width":250,"height":60},
+		{"id":"30140d4d9f5ef33b","type":"text","text":"Screener","x":-40,"y":-55,"width":140,"height":60},
+		{"id":"5aaa7bfcbb7cb1a7","type":"text","text":"Secondary Crushing","x":320,"y":-55,"width":220,"height":60}
+	],
+	"edges":[
+		{"id":"92a3f73a80b00619","fromNode":"03d451fa919f9f04","fromSide":"bottom","toNode":"f2020afa16d44e86","toSide":"top","label":"Composite Minerals"},
+		{"id":"b034218251de6580","fromNode":"f2020afa16d44e86","fromSide":"right","toNode":"30140d4d9f5ef33b","toSide":"left"},
+		{"id":"ee74b472f1debe81","fromNode":"30140d4d9f5ef33b","fromSide":"right","toNode":"5aaa7bfcbb7cb1a7","toSide":"left"}
+	]
+}
