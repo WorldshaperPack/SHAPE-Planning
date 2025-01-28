@@ -23,6 +23,6 @@
 				(Can be used on veins spawned as little structures or features similar to factoriores, but easier to accomplish probably)
 			- Port of factoriores?? prolly not
 	- WSGT
-		- [ ] Remove all but 1 circuit per tier (without breaking tags)
-		- [ ] Remove the recipes related to circuits
+		- [x] Remove all but 1 circuit per tier (without breaking tags)
+		- [x] Remove the recipes related to circuits
 		- [ ] Unregister everything IV+
