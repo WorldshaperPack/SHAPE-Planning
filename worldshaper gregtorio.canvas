@@ -2,9 +2,9 @@
 	"nodes":[
 		{"id":"de41c206bfbef163","x":340,"y":-620,"width":600,"height":880,"type":"file","file":"Pack Todo.md"},
 		{"id":"6a7a92b4422ca45b","type":"text","text":"- Progression\n- test sync","x":-620,"y":280,"width":740,"height":860,"color":"6"},
-		{"id":"672154c7dbface92","x":-1240,"y":280,"width":600,"height":860,"type":"file","file":"Planets.md"},
+		{"id":"672154c7dbface92","x":-1240,"y":280,"width":600,"height":860,"type":"file","file":"Planets and Dimensions/Planet Tierlist.md"},
 		{"id":"66fb4d765d36d015","x":-1240,"y":-620,"width":960,"height":880,"type":"file","file":"Core.md"},
-		{"id":"89d0d6c076f4232c","x":-260,"y":-620,"width":580,"height":880,"type":"file","file":"Space and Planet Ideas.md"}
+		{"id":"89d0d6c076f4232c","x":-260,"y":-620,"width":580,"height":880,"type":"file","file":"Planets and Dimensions/Space and Planet Ideas.md"}
 	],
 	"edges":[]
 }
