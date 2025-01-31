@@ -1,0 +1,46 @@
+==DISCLAIMER: EXTRMELY LOOSE + TO BE DONE==
+- [[Tier 0]]
+	- [[Overworld]] + [[Superflat]]
+		- Peaceful, likely main base of operations, starting off with basic materials
+	- [[The Nether]]
+		- Less peaceful, Automation of rarer resources
+		- Heat/blaze related fuel for t1 rocket
+	- [[Limbo]]
+		- Alternate ending path
+		- Corrupted science
+- [[Tier 1]]
+	- [[The End]]
+		- Ender stuff :P
+	-  [[Moon]]
+		- Start of craftable ae2, very limited
+		- Desh processing, for new machines and crafting t2 rocket
+	- [[Primordial Caves]]
+		- [[Prehistoric Science Pack]]
+	- [[Candy Cavity]]
+			- Candy and food themed processing for t2 rocket fuel
+				- (Food processing? Mass Sugar production? Ethanol?)
+		- Candy Science
+- [[Tier 2]]
+	- [[Mars]]
+		- Ostrum for t3
+	- [[Magnetic Caves]]
+		- Magnetic Science
+	- [[Abyssal Chasms]]
+		- Abyssal Science
+- [[Tier 3]]
+	- [[Venus]]
+		- Vulcanus equivalent; allowing copious bulk metal production from lava. 
+	- [[Mercury]]
+		- Calorite for t4
+	- [[Aether]]
+		- Ethyrean Science
+	- [[Forlorn Hollows]]
+		- Forlorn Science
+
+- [[Tier 4]]
+	- [[Deeper dark]]
+		- Reverberating Science
+	- [[Glacio]]
+		- ~~Etrium for t5 finale~~ Vetoed by Divine. 
+	- [[Toxic Caves]]
+		- Toxic Science
