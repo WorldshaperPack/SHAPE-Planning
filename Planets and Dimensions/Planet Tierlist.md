@@ -5,13 +5,9 @@
 	- [[The Nether]]
 		- Less peaceful, Automation of rarer resources
 		- Heat/blaze related fuel for t1 rocket
-	- [[Limbo]]
-		- Alternate ending path
-		- Corrupted science
 - [[Tier 1]]
-	- [[The End]]
-		- Ender stuff :P
 	-  [[Moon]]
+		- Replaces vanilla end
 		- Start of craftable ae2, very limited
 		- Desh processing, for new machines and crafting t2 rocket
 	- [[Primordial Caves]]
@@ -26,21 +22,17 @@
 	- [[Magnetic Caves]]
 		- Magnetic Science
 	- [[Abyssal Chasms]]
-		- Abyssal Science
+		- Abyssal Science, uses pressure processing, and replicating the powers of the deep ones treasures
 - [[Tier 3]]
 	- [[Venus]]
 		- Vulcanus equivalent; allowing copious bulk metal production from lava. 
 	- [[Mercury]]
 		- Calorite for t4
-	- [[Aether]]
-		- Ethyrean Science
 	- [[Forlorn Hollows]]
-		- Forlorn Science
+		- Forlorn Science from harnessing the dark energy of the deep
 
 - [[Tier 4]]
-	- [[Deeper dark]]
-		- Reverberating Science
 	- [[Glacio]]
-		- ~~Etrium for t5 finale~~ Vetoed by Divine. 
+		- Cryogenic processing for etrium, late game material
 	- [[Toxic Caves]]
-		- Toxic Science
+		- Toxic Science involving strong acid creation and radioactive materials 
