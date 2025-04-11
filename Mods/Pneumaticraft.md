@@ -1,6 +1,6 @@
 - gate + balance pneumatic armor (as the intended modular armor and mobility solution)
 - something about the minigun, it really is VERY strong
 - Integrate Logistics Drones
-- Gut and core the remainder of it, 
+- Gut and core the remainder of it, preferably removing most of the pressure mechanics use aside from energy to pressure conversion for recharging items, no processing ( arm assline/oilproc )
 - possibly exploit the [[Heat API]] for various processes
 - Jackhammer as side-grade to GT drills
