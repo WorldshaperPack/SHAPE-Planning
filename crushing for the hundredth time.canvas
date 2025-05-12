@@ -1,13 +1,30 @@
 {
 	"nodes":[
-		{"id":"03d451fa919f9f04","type":"text","text":"Mine Feedstock ","x":-406,"y":-268,"width":250,"height":60},
 		{"id":"f2020afa16d44e86","type":"text","text":"Primary Crushing","x":-404,"y":-55,"width":250,"height":60},
-		{"id":"30140d4d9f5ef33b","type":"text","text":"Screener","x":-40,"y":-55,"width":140,"height":60},
-		{"id":"5aaa7bfcbb7cb1a7","type":"text","text":"Secondary Crushing","x":320,"y":-55,"width":220,"height":60}
+		{"id":"30140d4d9f5ef33b","type":"text","text":"Screener","x":-120,"y":-55,"width":140,"height":60},
+		{"id":"d0ed42697747b7d4","x":420,"y":-55,"width":131,"height":60,"type":"text","text":"Screener"},
+		{"id":"e6b66470402f1a53","x":620,"y":-55,"width":120,"height":60,"type":"text","text":"Milling"},
+		{"id":"03d451fa919f9f04","type":"text","text":"Mine Feedstock ","x":-404,"y":-220,"width":250,"height":60},
+		{"id":"5aaa7bfcbb7cb1a7","type":"text","text":"Secondary Crushing","x":120,"y":-55,"width":220,"height":60},
+		{"id":"6888ae0c7e57b7ed","x":610,"y":100,"width":140,"height":60,"type":"text","text":"Separator"},
+		{"id":"e0681e0c91075471","x":554,"y":261,"width":250,"height":60,"type":"text","text":"Powder to smelting/extraction"},
+		{"id":"30ba71385bcce867","x":267,"y":261,"width":219,"height":60,"type":"text","text":"Gangue and Tailings"}
 	],
 	"edges":[
-		{"id":"92a3f73a80b00619","fromNode":"03d451fa919f9f04","fromSide":"bottom","toNode":"f2020afa16d44e86","toSide":"top","label":"Composite Minerals"},
-		{"id":"b034218251de6580","fromNode":"f2020afa16d44e86","fromSide":"right","toNode":"30140d4d9f5ef33b","toSide":"left"},
-		{"id":"ee74b472f1debe81","fromNode":"30140d4d9f5ef33b","fromSide":"right","toNode":"5aaa7bfcbb7cb1a7","toSide":"left"}
+		{"id":"92a3f73a80b00619","fromNode":"03d451fa919f9f04","fromSide":"bottom","toNode":"f2020afa16d44e86","toSide":"top","label":"Ore/composite Minerals"},
+		{"id":"ee74b472f1debe81","fromNode":"30140d4d9f5ef33b","fromSide":"right","toNode":"5aaa7bfcbb7cb1a7","toSide":"left","label":"Crushed *"},
+		{"id":"795e934b7834c7dd","fromNode":"f2020afa16d44e86","fromSide":"right","toNode":"30140d4d9f5ef33b","toSide":"left"},
+		{"id":"0d209a1859bfd685","fromNode":"30140d4d9f5ef33b","fromSide":"bottom","toNode":"f2020afa16d44e86","toSide":"bottom","color":"1","label":"Minerals"},
+		{"id":"462f381b3d941b82","fromNode":"5aaa7bfcbb7cb1a7","fromSide":"right","toNode":"d0ed42697747b7d4","toSide":"left"},
+		{"id":"a3ac4b3b064aebdd","fromNode":"30140d4d9f5ef33b","fromSide":"bottom","toNode":"d0ed42697747b7d4","toSide":"bottom","color":"4","label":"Ground *"},
+		{"id":"d4e946a880604b24","fromNode":"d0ed42697747b7d4","fromSide":"right","toNode":"e6b66470402f1a53","toSide":"left","label":"Grit"},
+		{"id":"5af578bbeb0f4932","fromNode":"d0ed42697747b7d4","fromSide":"top","toNode":"5aaa7bfcbb7cb1a7","toSide":"top","color":"1","label":"Ground *"},
+		{"id":"b4cf9eea90b120cc","fromNode":"e6b66470402f1a53","fromSide":"bottom","toNode":"6888ae0c7e57b7ed","toSide":"top"},
+		{"id":"f8de1bf9077069a4","fromNode":"6888ae0c7e57b7ed","fromSide":"right","toNode":"e6b66470402f1a53","toSide":"right","label":"Grit"},
+		{"id":"3ea875afbeafd9a2","fromNode":"6888ae0c7e57b7ed","fromSide":"bottom","toNode":"e0681e0c91075471","toSide":"top","label":"Powder"},
+		{"id":"68d418dcbcbdb82a","fromNode":"d0ed42697747b7d4","fromSide":"bottom","toNode":"6888ae0c7e57b7ed","toSide":"left","color":"4","label":"Powder"},
+		{"id":"a3244485c3af2cc8","fromNode":"6888ae0c7e57b7ed","fromSide":"left","toNode":"30ba71385bcce867","toSide":"top"},
+		{"id":"4ddc6027cc039eda","fromNode":"d0ed42697747b7d4","fromSide":"bottom","toNode":"30ba71385bcce867","toSide":"top"},
+		{"id":"6db2d08a1491934e","fromNode":"30140d4d9f5ef33b","fromSide":"bottom","toNode":"30ba71385bcce867","toSide":"top"}
 	]
 }
