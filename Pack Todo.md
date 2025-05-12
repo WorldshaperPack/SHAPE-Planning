@@ -26,3 +26,6 @@
 
 	- WSGT (gt fork) Todo
 		- Fix high tier multiblocks that have hardcoded voltages used (computation/fusion) (VERY low priority)
+- [[Mineralogy because i can't decide]] hell:
+	- #todo: dynamic function to tag appropriate minerals with ex. "primary iron mineral" for minerals that are majorly iron, etc
+	- autogen crushing and screening recipes 
